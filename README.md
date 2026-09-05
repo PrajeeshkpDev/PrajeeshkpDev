@@ -39,7 +39,7 @@ A MERN-based e-commerce application with authentication, product management, car
 
 ### 📫 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL) • [Portfolio](YOUR_PORTFOLIO_URL) • [Email](mailto:YOUR_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/prajeesh-kp-035436434/) •• [Email](mailto:prajeeshkp.dev@gmail.com)
 
 ---
 
